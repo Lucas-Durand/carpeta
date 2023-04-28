@@ -1,0 +1,16 @@
+/*Reset*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*Propiedades del div*/
+.caja{
+    width: 20rem;
+    height: 20rem;
+    background-color: aqua;
+    margin: 2rem;
+    border: 1rem solid;
+}
